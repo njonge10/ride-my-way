@@ -1,1 +1,1 @@
-# ride-my-way
+Ride-My-Way app is a carpooling app that provides with the ability to create ride offers and passengers to join available ride offers.It creates a unique space, enabling exchanges between people who might have never met otherwise but who come together to share a ride.It is the world's leading carpooling platform. It’s a trusted community marketplace that connects car drivers with empty seats to passengers looking for a ride.
