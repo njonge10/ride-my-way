@@ -1,0 +1,201 @@
+body{
+	background-color:#66CCFF;
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding:0;
+}
+h1{
+  color:blueviolet;
+  font-family:Cambria;
+  font-size:200%;
+  text-align:center;
+  margin-bottom:0; 
+}
+h2{
+  color:blueviolet;
+  font-family:Cambria;
+  font-size:150%;
+  text-align:center;
+  background-color:beige;
+  border:2px solid brown;
+}
+h6{
+  color:blueviolet;
+  font-family:Cambria;
+  font-size:150%;
+  text-align:center;
+  background-color:beige;
+  border:2px solid brown;
+  border-radius:1000px;
+}
+h3{
+  color:blueviolet;
+  font-family:Cambria;
+  font-size:150%;
+  text-align:center;
+  background-color:beige;
+  border:2px solid brown;
+  border-radius:10px;
+}
+h4{
+  color:blueviolet;
+  font-family:Cambria;
+  font-size:150%;
+  text-align:center;
+  background-color:aquamarine;
+  border:2px solid brown;
+  border-radius:100px;
+}
+p{
+  color:black;
+  font-family:Cambria;
+  font-size:120%;
+  
+  
+  border-radius:10px;
+}
+ol{
+  font-family:Cambria;
+  font-size:142%;
+  background-color:lightskyblue;
+  border:2px solid brown;
+  border-radius:10px;
+  color:black;
+  margin-right:auto;
+  margin-bottom:0;
+}
+ol li{
+  font-family:Cambria;
+  font-size:100%;
+  background-color:lightskyblue;
+  color:black;
+  text-decoration:none;
+}
+footer{
+  width:98%;
+  text-align:center;
+  border-radius:10px;
+  }
+img{
+  border:3px solid darkblue;
+  border-radius:10px;
+  margin:1px 40px;
+}
+ul{
+  font-family:Cambria;
+  font-size:120%;
+  background-color:gold;
+  color:black;
+  text-align:left;
+  list-style-type:none;
+  margin:100px;
+}
+ul li a{
+  text-align:left;
+  float:left;
+  text-decoration:none;
+  padding:14px 16px;
+  border:2px solid darkred;
+  border-radius:10%;
+  background-color:white;
+  margin:5px;
+}
+li a:hover{
+  background-color:magenta;
+}
+form{
+  font-family:Cambria;
+  font-size:120%;
+  color:black;
+  border-radius:5px;
+  border:2px solid darkred;
+  background-color:lightseagreen;
+}
+#container {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  background-color:lightblue;
+  border-radius:10px;
+  margin-left:40px;
+}
+
+#animate {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  background-color:black;
+  border-radius:100px;
+}
+button{
+  font-family:Cambria;
+  font-size:100%;
+}
+#rides {
+    font-family: Cambria;
+    border-collapse: collapse;
+    width: 50%;
+	margin-left:85px;
+}
+#rides th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    color: red;
+	font-size:24px;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 100%;
+    color: green;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	color:#0033FF;
+	background-color:#00FF66;
+}
+
+input[type=submit]:hover {
+    background-color: white;
+}
+input[type=name], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=email], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+div {
+    border-radius: 5px;
+    padding: 0px;
+}
